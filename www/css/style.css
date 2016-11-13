@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+.splash {
+  background:url('http://static.tumblr.com/08ed7767352ff3a7d0e4ba69b2d56138/0tvg408/qnXn7nvl5/tumblr_static_cpsy28oj3ls080ggs8004os0s.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+}
+
+.label{
+  padding-left:100px;
+  padding-top:70px;
+    width:500px;
+    text-transform: uppercase;
+}
+
+.spinner svg {
+  padding-top:70px;
+  width: 370px;
+  height: 250px;
+  stroke: #10;
+  fill: #20;
+}
+
+.buttonClass{
+  margin-left:150px;
+  margin-top:30px;
+    width:70px;
+    height:70px;
+    border-width: 10px;
+
+}
